@@ -2,8 +2,6 @@
 ** Data sets **
 *********************
 cho.txt and iyer.txt are the two datasets to be used in Project 2. 
-We will upload two more datasets for the demo on Nov. 3. 
-
 
 *********************
 ** Data set format **
